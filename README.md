@@ -1,0 +1,6 @@
+- run `composer install`
+- run `npm install`
+- Generate your application encryption key using `php artisan key:generate`
+- Create .env file
+- run `npm run dev`
+- run `php artisan serve`
